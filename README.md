@@ -1,2 +1,0 @@
-# REACTEXERCISE
-Created with CodeSandbox

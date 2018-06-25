@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Filter {
+  border: 2px solid;
+}
+th {
+  align-content: center;
+  background-color: skyblue;
+}
+td {
+  align-content: center;
+  background-color: lightgray;
+}
